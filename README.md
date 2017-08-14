@@ -1,5 +1,5 @@
 # Monokai-Darkness-Reborn
-This theme is fork of Monokai dark soda theme. It is made specially for php and js(Is also good in HTML CSS and SQL) with extra color coding. The base theme files have been taken from the [Monokai Dark Soda](https://github.com/rainje/Monokai-Dark-Soda) Theme
+It is made specially for php and js(Is also good in HTML CSS and SQL) with extra color coding. The base theme files have been taken from the [Monokai Dark Soda](https://github.com/rainje/Monokai-Dark-Soda) Theme
 
 All the color schemes of the Monokai Dark soda is present but added more differnt color schemes to two or different types of code which had the same color eg:id selector and class selector were of the same color so i changed it.
 
