@@ -7,4 +7,6 @@ The most important reason i made this theme is because of the <?php ?> tag. It u
 
 #### HOPE THIS HELPS YOU:-
 
+#### (NOTE:- For those who want to make brackets theme and does not know what selector in main.css does what i have made documentation of it in the word file in folowing link- BRACKETS CSS SELECTOR MEANING and also use the following link for more reference https://github.com/adobe/brackets/wiki/Creating-Themes)
+
 
